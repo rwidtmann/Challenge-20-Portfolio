@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Challenge-20-Portfolio/static/css/main.662a43f2.css",
+    "main.js": "/Challenge-20-Portfolio/static/js/main.c0cac4d2.js",
+    "index.html": "/Challenge-20-Portfolio/index.html",
+    "main.662a43f2.css.map": "/Challenge-20-Portfolio/static/css/main.662a43f2.css.map",
+    "main.c0cac4d2.js.map": "/Challenge-20-Portfolio/static/js/main.c0cac4d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.662a43f2.css",
+    "static/js/main.c0cac4d2.js"
+  ]
+}
